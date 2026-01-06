@@ -1,2 +1,1 @@
-# bigfiles
-dotfiles for pc
+my arch linux config for my pc
